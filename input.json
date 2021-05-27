@@ -1,0 +1,16 @@
+{
+    "name": "Kapala",
+    "homeTown": {
+        "city": "Mumbai"
+    },
+    "formed": 2000,
+    "secretBase": "Garbage Mountain",
+    "active": true,
+    "power": {
+        "secretIdentity": "Totem",
+        "power": {
+            "__id": "123466797",
+            "value": "Radiation emission"
+        }
+    }
+}
